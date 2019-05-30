@@ -1,0 +1,16 @@
+{
+  "name": "Parcel App Template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html -p 8000",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Puck Wang",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
